@@ -11,9 +11,9 @@ Aviron secures the multimedia features such as Netfix or Paramount+ beind their 
 
 The Files for the patched apks are above (Not yet avalible).
 
-The APK files for the Aviron app are avalible at []() with an archive above. Theoretically theese could be used to patch the apk or reinstall it on a regular android system.
+The APK files for the Aviron app are avalible at https://apk-prod.update.rowaviron.com with an archive above. Theoretically theese could be used to patch the apk or reinstall it on a regular android system.
 
-The OTA (over the air) firmware files are avalible at []() with an archive above. Theoretically theese could be used to install a custom recovery and OS on the board.
+The OTA (over the air) firmware files are avalible at https://os-prod.update.rowaviron.com with an archive above. Theoretically theese could be used to install a custom recovery and OS on the board.
 
 ## Board
 
