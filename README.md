@@ -22,3 +22,7 @@ The tablet runs on a Rockchip 3399 (RK3399), which seems to be common for embedd
 The FCC report, which includes photos of the board, is avalible at https://fcc.report/FCC-ID/2ASJ3-ATS1 with an archive above. **Note that the USB-A port and Micro SD slot are not present on production models.**
 
 The board features a micro-usb port which can be used via ADB (see below). This port cannot be accessed without opening up the tablet.
+
+## ADB
+
+to be completed
