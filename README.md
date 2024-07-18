@@ -1,6 +1,16 @@
 # AvironRower
 The github repo for all things related to hacking Aviron rowing machines
 
+
+## JAILBREAKING
+
+### #1 (Requires Subscription, ATS1)
+
+### #2 (ATS1)
+
+### #3 ADB
+
+For those savy enough (and dont care about possibly breaking a $2,000 rowing machine) you can jailbreak your rowing machine via ADB (Android Device Bridge)
 ## Information
 
 Most rowing machines pruduced by Aviron Active feature an android tablet runing their App which interfaces with the machine and tracks your statistics. Most run either android 7 or 10. 
@@ -15,6 +25,9 @@ The APK files for the Aviron app are avalible at https://apk-prod.update.rowavir
 
 The OTA (over the air) firmware files are avalible at https://os-prod.update.rowaviron.com with an archive above. Theoretically theese could be used to install a custom recovery and OS on the board.
 
+QUICK UPDATE
+
+Ive found a development build of Aviron's apk. It allows you to bypass the subscription aswell as do many other things. You can find it above aswell as 
 ## Board
 
 The tablet runs on a Rockchip 3399 (RK3399), which seems to be common for embedded systems like this.
